@@ -1,0 +1,16 @@
+# WordPress specific
+/wp-content/uploads/
+/wp-content/upgrade/
+/wp-content/backup-*/
+/wp-content/ai1wm-backups/
+/wp-config.php
+/wp-config-sample.php
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Operating system files
+.DS_Store
+Thumbs.db
